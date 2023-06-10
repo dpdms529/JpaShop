@@ -5,4 +5,4 @@
 4. [회원 도메인 개발](https://github.com/dpdms529/JpaShop/blob/main/docs/4.%20%ED%9A%8C%EC%9B%90%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EA%B0%9C%EB%B0%9C.md)
 5. [상품 도메인 개발](https://github.com/dpdms529/JpaShop/blob/main/docs/5.%20%EC%83%81%ED%92%88%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EA%B0%9C%EB%B0%9C.md)
 6. [주문 도메인 개발](https://github.com/dpdms529/JpaShop/blob/main/docs/6.%20%EC%A3%BC%EB%AC%B8%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EA%B0%9C%EB%B0%9C.md)
-7. [웹 계층 개발]()
+7. [웹 계층 개발](https://github.com/dpdms529/JpaShop/blob/main/docs/7.%20%EC%9B%B9%20%EA%B3%84%EC%B8%B5%20%EA%B0%9C%EB%B0%9C.md)
